@@ -21,5 +21,6 @@ The workflow includes:
 - TOPCAT for data querying/export
 
 ## Output Graph
-The HR diagram is saved as:
+The HR diagram is saved as: gaia_hr_final.png
+
 
